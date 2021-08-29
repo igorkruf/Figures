@@ -1,0 +1,7 @@
+D:\Проекты\29.08_Figure\29.08_Figure\bin\Debug\29.08_Figure.exe.config
+D:\Проекты\29.08_Figure\29.08_Figure\bin\Debug\29.08_Figure.exe
+D:\Проекты\29.08_Figure\29.08_Figure\bin\Debug\29.08_Figure.pdb
+D:\Проекты\29.08_Figure\29.08_Figure\obj\Debug\29.08_Figure.csproj.AssemblyReference.cache
+D:\Проекты\29.08_Figure\29.08_Figure\obj\Debug\29.08_Figure.csproj.CoreCompileInputs.cache
+D:\Проекты\29.08_Figure\29.08_Figure\obj\Debug\29.08_Figure.exe
+D:\Проекты\29.08_Figure\29.08_Figure\obj\Debug\29.08_Figure.pdb
