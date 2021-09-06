@@ -15,5 +15,6 @@ namespace _29._08_Figure
         //{
         //    Console.WriteLine($" Площадь {_figure}а {Area()}\n Периметр {_figure}а {Perimetr()}\n");
         //}
+        /////////////////////////////////////////
     }
 }
